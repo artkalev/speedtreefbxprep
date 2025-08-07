@@ -1,6 +1,6 @@
 # SpeedTree fbxprep
 
-Python TkInter GUI program / script to convert Speed Tree exported FBX files into Unreal Engine compatible FBX files with proper custom object propterties and conformed LOD naming.
+Python TkInter GUI program / script to convert Speed Tree exported FBX files into Unreal Engine compatible FBX files with proper custom object properties and conformed LOD naming.
 
 this is a simple python GUI program and Blender script to convert 
 a fbx file exported from Speed Tree Modeler to an Unreal Engine ready
